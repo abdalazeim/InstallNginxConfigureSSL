@@ -129,5 +129,13 @@ server {
  ### 0 0,12 * * * certbot renew >/dev/null 2>&1
  # Hit CTRL+X followed by Y to save the changes.
 # This cronjob will attempt to check for renewing the certificate twice daily
+- **ScrennShot**:
+
+     ![ScrennShot](https://github.com/abdalazeim/InstallNginxConfigureSSL/blob/main/Install%20Nginx.png)
+
+# That's All:
+ - This Script By:  **☠αвɒ єℓαzєм☠**
+ - Thanks For Usage :)
+ - Have A Nice Day,GoodBye :)
 
  
