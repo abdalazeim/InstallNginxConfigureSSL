@@ -43,3 +43,10 @@ server {
      gzip on;
  }
 
+# Hit Ctrl+X followed by Y and Enter to save the file and exit.
+# To enable this newly created website configuration, symlink the file that you just created into the sites-enabled directory. 
+### sudo ln -s /etc/nginx/sites-available/odoo.conf /etc/nginx/sites-enabled/odoo.conf
+# Check your configuration and restart Nginx for the changes to take effect.
+### sudo nginx -t
+### sudo service nginx restart
+# Step 3: Install and configure SSL for Odoo HTTPS
